@@ -1,0 +1,12 @@
+.back-color{
+    background-color: #fceae8;
+}
+.panda-button{
+    background-color: #ff2379;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 400;
+}
